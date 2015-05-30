@@ -6,3 +6,5 @@ Graph](https://graphs.waffle.io/jonbaer/waffletest/throughput.svg)](https://waff
 
 # waffletest
 A test repo for waffle.io (ignore)
+
+This is just a test
